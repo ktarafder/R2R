@@ -43,3 +43,6 @@ go.work.sum
 .ruff_cache/
 *.egg-info
 .venv
+venv/
+.vscode/
+.vscode/
